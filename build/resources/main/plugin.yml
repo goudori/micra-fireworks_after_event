@@ -1,0 +1,4 @@
+name: Three_micra
+version: '1.0-SNAPSHOT'
+main: plugin.three_micra.Main
+api-version: '1.20'
